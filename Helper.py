@@ -1,7 +1,8 @@
 import pickle
 import tensorflow as tf
 
-def load_tokenil(tokenil_path):
+def tokenil(filepath):
+    tokeniler = 
     return tokenil
 
 def unlist(inputs):
